@@ -1,0 +1,23 @@
+{
+  "name": "tsa-random",
+  "version": "0.0.1",
+  "description": "Points to left or right on random",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groie/tsa-random.git"
+  },
+  "author": "groie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groie/tsa-random/issues"
+  },
+  "homepage": "https://github.com/groie/tsa-random#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
